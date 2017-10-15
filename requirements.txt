@@ -1,0 +1,4 @@
+Flask
+yahoo_finance
+requests==2.3
+vocabulary
